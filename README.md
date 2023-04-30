@@ -1,2 +1,4 @@
 # petsimxscripts
-Contains free trade scam and dupe script
+💸 Contains free trade scam + dupe script!
+👨‍💻 Works with any executor!
+🏷️ Loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/petsimxdupez/petsimxscripts/main/Protected.lua"))()
